@@ -1,5 +1,5 @@
 # Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Harish+Reddy+Manyam;Data+Engineer;Open+Source+AI%2FML+Developer+;Cloud+Architect+;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Harish+Reddy+Manyam;Data+Engineer;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
 
 
@@ -9,7 +9,7 @@
 
 ## A little more about me...  
 
-I'm an __MPS in Data Science__ student at __University of Maryland Baltimore County__. I have 2 years of experience building and deploying __machine learning__ and __deep learning__ and __Data Science__ systems and __Cloud Architect__. I have been awarded as __Special Young Achiever__ for my Research and Innovation in 2021 from GITAM Deemed to be University 
+I'm an __MPS in Data Science__ student at __University of Maryland Baltimore County__. I have 2 years of experience building and deploying __machine learning__ and __deep learning__ and __Data Science__ systems and __Cloud Architect__. I have been awarded as __Special Young Achiever__ for my Research and Innovation in 2021 from GITAM Deemed to be University. 
 
 Later, I began to work on projects ranging from __Health-Care__,__Agricultural__, __Retail & E-Commerce__, __Manufacturing__ and __Automobile__ industries.
 

@@ -27,9 +27,9 @@ Currently, I'm working on the following Research Projects at University of Maryl
 
 Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaSankeerth&layout=compact&theme=radical&langs_count=10)](https://github.com/ShivaSankeerth/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishmanyam9&layout=compact&theme=radical&langs_count=10)](https://github.com/harishmanyam9/github-readme-stats)
 
-![Harish Reddy Manyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivaSankeerth&show_icons=true&theme=radical)
+![Harish Reddy Manyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishmanyam9&show_icons=true&theme=radical)
 
 [linkedin]: https://www.linkedin.com/in/harish-reddy-manyam/
 [Medium]: https://medium.com/@harishreddy9495
